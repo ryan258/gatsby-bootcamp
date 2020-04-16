@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'Full-Stack Manatee',
+    author: 'Awesome Manatees'
+  },
   plugins: [`gatsby-plugin-sass`],
 }
