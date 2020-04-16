@@ -1,3 +1,5 @@
+Following along with the [GatsbyJS = The Great Gatsby Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM).
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
