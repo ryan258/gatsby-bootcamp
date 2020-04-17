@@ -13,6 +13,7 @@ const BlogPage = () => {
               title
               date
             }
+            id
           }
         }
       }
