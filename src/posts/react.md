@@ -1,9 +1,9 @@
 ---
-title: "The Manny XP"
-date: "2020-04-16"
+title: "The Manny Tax Reaction XP"
+date: "2020-04-15"
 ---
 
-I just learned a couple things!
+I just learned a couple things, then he flips out...
 
 ## Things Like:
 
